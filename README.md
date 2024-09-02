@@ -10,7 +10,7 @@ The primary business use case for this application is to automate the process of
 
 ## Demo
 
-A demonstration video of the application in action can be viewed [here](https://github.com/abhishekiiitbh2903/Custom-Email-/blob/main/Cold%20Email%20Generator%20-%20Google%20Chrome%202024-09-02%2015-30-05.mp4).
+![Demo](https://github.com/abhishekiiitbh2903/Custom-Email-/blob/main/Cold%20Email%20Generator%20-%20Google%20Chrome%202024-09-02%2015-30-05.gif).
 
 ### Example Email
 
